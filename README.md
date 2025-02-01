@@ -17,5 +17,6 @@
 
 Skills
 Git PythonGNU BashVS  Amazon Web Services Docker k8s Linux
+![image](https://github.com/user-attachments/assets/6dd1e467-0e9d-470c-9853-c0612bbbd8c6)
 
 Socials
