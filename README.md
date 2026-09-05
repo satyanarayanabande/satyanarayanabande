@@ -7,7 +7,7 @@
 
 <br>Senior Software Engineer – SRE/DevOps Engineer @ HSBC<br>
 
-🚀 DevOps • SRE • Cloud Engineer | AWS | CI/CD | Docker | Istio | Kubernetes | Terraform | Kong | Mentor<br>
+🚀 DevOps | SRE | Cloud Engineer | AWS | CI/CD | Docker | Istio | Kubernetes | Terraform | Kong | Mentor<br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bande-satyanarayana/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@veerusatyanarayana99)
