@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/satyanarayanabande/satyanarayanabande/blob/main/canva.png" alt="GitHub Banner" width="800"/>
+  <img src="https://github.com/satyanarayanabande/satyanarayanabande/blob/main/banner.png" alt="GitHub Banner" width="800"/>
 </div>
 
 # 💫 About Me:
